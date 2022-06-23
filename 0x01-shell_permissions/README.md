@@ -4,3 +4,4 @@
 4. A script to change ownership of a file
 5. A script to create empty file
 6. A script to add executable to a file
+7. A script to add 114 permissions to file
