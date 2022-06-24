@@ -5,3 +5,4 @@
 5. A script to create empty file
 6. A script to add executable to a file
 7. A script to add 114 permissions to file
+8. A script to add execute to all 
