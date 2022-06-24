@@ -6,4 +6,5 @@
 6. A script to add executable to a file
 7. A script to add 114 permissions to file
 8. A script to add execute to all
-9. A scritp to transfere permissions 
+9. A scritp to transfere permissions
+10. A script to add directory only permissions 
