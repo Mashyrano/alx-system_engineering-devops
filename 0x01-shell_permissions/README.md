@@ -8,4 +8,5 @@
 8. A script to add execute to all
 9. A scritp to transfere permissions
 10. A script to add directory only permissions
-11. A script to make a dir with its permisions 
+11. A script to make a dir with its permisions
+12. A script to change group permission 
