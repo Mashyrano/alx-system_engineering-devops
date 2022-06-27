@@ -19,4 +19,5 @@
 
 
 
-20. remove a letter form input 
+20. remove a letter form input
+21. reverse input 
