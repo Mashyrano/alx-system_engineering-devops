@@ -5,3 +5,5 @@
 4/ script tha diplays last 10 line of a file
 5. script to display the first 10 lines
 6. tail head combo to specify line of file
+
+8. redirect output of ls -la to a file
