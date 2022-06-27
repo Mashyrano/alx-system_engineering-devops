@@ -9,3 +9,4 @@
 8. redirect output of ls -la to a file
 9. duplicate last line of a file
 10. remove file
+11. count directorie and sub dir
