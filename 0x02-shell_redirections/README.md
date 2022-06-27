@@ -10,3 +10,4 @@
 9. duplicate last line of a file
 10. remove file
 11. count directorie and sub dir
+12. script to sort by date modified
