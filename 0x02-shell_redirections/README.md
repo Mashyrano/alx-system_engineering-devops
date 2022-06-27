@@ -4,3 +4,4 @@
 3. script to cat two files
 4/ script tha diplays last 10 line of a file
 5. script to display the first 10 lines
+6. tail head combo to specify line of file
