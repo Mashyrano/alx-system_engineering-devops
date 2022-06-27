@@ -7,3 +7,4 @@
 6. tail head combo to specify line of file
 
 8. redirect output of ls -la to a file
+9. duplicate last line of a file
