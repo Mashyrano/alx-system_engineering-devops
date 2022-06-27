@@ -13,3 +13,4 @@
 12. script to sort by date modified
 
 14. find he word root in a file
+15. count the number of lines of output of script 14 
