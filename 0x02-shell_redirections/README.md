@@ -18,6 +18,6 @@
 
 
 18. all that start with a letter
-
+19. trnaslate A-c with Z-e
 20. remove a letter form input
 21. reverse input 
