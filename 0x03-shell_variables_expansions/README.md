@@ -9,3 +9,6 @@
 8.
 9. arithmetic on environment variable
 10. calculate exponential
+11.
+12.
+13. decimal points
