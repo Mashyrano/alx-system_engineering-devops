@@ -5,3 +5,6 @@
 4. print env variables
 5. 
 6. create variables
+7.
+8.
+9. arithmetic on environment variable
