@@ -8,3 +8,4 @@
 7.
 8.
 9. arithmetic on environment variable
+10. calculate exponential
