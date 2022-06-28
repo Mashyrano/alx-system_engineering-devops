@@ -3,3 +3,5 @@
 2. 
 3.
 4. print env variables
+5. 
+6. create variables
