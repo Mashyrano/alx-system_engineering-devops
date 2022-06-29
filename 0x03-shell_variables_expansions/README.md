@@ -6,7 +6,7 @@
 5. local var
 6. create variables
 7. global variable
-8.
+8. true knowledge
 9. arithmetic on environment variable
 10. calculate exponential
 11.
