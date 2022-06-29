@@ -5,7 +5,7 @@
 4. print env variables
 5. local var
 6. create variables
-7.
+7. global variable
 8.
 9. arithmetic on environment variable
 10. calculate exponential
