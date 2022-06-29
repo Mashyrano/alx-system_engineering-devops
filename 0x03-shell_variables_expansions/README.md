@@ -1,9 +1,9 @@
 0. create an alias
 1. format to print username
 2. 
-3.
+3. number of directories in $PATH
 4. print env variables
-5. 
+5. local var
 6. create variables
 7.
 8.
