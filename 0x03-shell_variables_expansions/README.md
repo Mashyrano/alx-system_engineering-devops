@@ -10,5 +10,5 @@
 9. arithmetic on environment variable
 10. calculate exponential
 11.
-12.
+12.combination except oo
 13. decimal points
