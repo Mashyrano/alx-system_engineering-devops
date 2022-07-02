@@ -21,3 +21,5 @@
 20. remove a letter form input
 21. reverse input 
 22. 
+23. list all empty files and dir
+24.
