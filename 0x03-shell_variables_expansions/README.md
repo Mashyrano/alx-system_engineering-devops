@@ -12,3 +12,5 @@
 11. convert base 2 to base 10
 12.combination except oo
 13. decimal points
+14. decimal to hex
+15. 
